@@ -1,6 +1,6 @@
 # 🛡️ SecureScan AI — AI-Powered X-Ray Baggage Security Detection
 
-SecureScan AI is a web application that uses a custom-trained **YOLOv8** model to detect prohibited items in X-ray baggage scan images. Upload an image, and the system draws bounding boxes around detected objects, displays confidence scores, and provides a clear **SAFE ✅** or **THREAT DETECTED 🚨** verdict.
+SecureScan AI is a web application that uses a custom-trained **YOLOv8** model to detect prohibited items in X-ray baggage scan images. Upload an image, and the system draws bounding boxes around detected objects, displays confidence scores, and provides a clear **SAFE ✅** or **THREAT DETECTED 🚨** verdict
 
 ---
 
