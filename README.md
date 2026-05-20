@@ -154,7 +154,7 @@ SecureScanAI/
 
 ## 📄 License
 
-This project is for **demonstration and research purposes only**. Use responsibly.
+This project is for **demonstration and research purposes only**. Use responsibly.securescan
 
 ---
 
