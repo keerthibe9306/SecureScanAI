@@ -152,10 +152,6 @@ SecureScanAI/
 
 ---
 
-## 📄 License
 
-This project is for **demonstration and research purposes only**. Use responsibly.securescan
-
----
 
 **SecureScan AI © 2025 — Powered by YOLOv8 + Flask**
